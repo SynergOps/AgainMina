@@ -1,2 +1,3 @@
 # AgainMina
-A Simple Desktop App for transcoding text to braille
+
+Μια απλή εφαρμογή Desktop για μετατροπή κειμένου σε Braille
