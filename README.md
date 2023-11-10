@@ -4,3 +4,6 @@
 
 Μια απλή εφαρμογή Desktop για μετατροπή κειμένου σε Braille
 
+<p align="center">
+  <img src="./img/againmina.png" alt="AgainMina Desktop App" width="738">
+</p>
